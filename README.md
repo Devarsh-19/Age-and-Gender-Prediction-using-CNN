@@ -1,4 +1,4 @@
-# jovac_ml_assignment_age_and-gender_prediction_devarsh_raj
+## age and gender prediction using neural network
 
 This repository holds assignment of jovac_ml_assignment_age_and-gender_prediction 
 
